@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.4c23112f.css",
+    "main.js": "/robofriends/static/js/main.84b25c04.js",
+    "static/js/488.75995a38.chunk.js": "/robofriends/static/js/488.75995a38.chunk.js",
+    "static/media/orbitron-latin-700-normal.woff": "/robofriends/static/media/orbitron-latin-700-normal.ead0d4038c0825ee0d1d.woff",
+    "static/media/orbitron-latin-400-normal.woff": "/robofriends/static/media/orbitron-latin-400-normal.50f867b5cf7cadb22ab4.woff",
+    "static/media/orbitron-latin-700-normal.woff2": "/robofriends/static/media/orbitron-latin-700-normal.03524951cb65cd2092b4.woff2",
+    "static/media/orbitron-latin-400-normal.woff2": "/robofriends/static/media/orbitron-latin-400-normal.1b2c34c3c996f3af4736.woff2",
+    "index.html": "/robofriends/index.html",
+    "main.4c23112f.css.map": "/robofriends/static/css/main.4c23112f.css.map",
+    "main.84b25c04.js.map": "/robofriends/static/js/main.84b25c04.js.map",
+    "488.75995a38.chunk.js.map": "/robofriends/static/js/488.75995a38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c23112f.css",
+    "static/js/main.84b25c04.js"
+  ]
+}
